@@ -1,4 +1,4 @@
-package org.example.shopee.model;
+package org.example.shopee.dto;
 
 public record GetShopInfoRequest(
         String username,
